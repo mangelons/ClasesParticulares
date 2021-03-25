@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <clasesparticulares.Alumno>
+    <nombre>Manuel Jesus</nombre>
+    <apellidos>Serrano Salinas</apellidos>
+    <asignatura>Programacion</asignatura>
+    <email>manuelserranosalinas@gmail.com</email>
+    <precio>12.0</precio>
+    <clases>
+      <clasesparticulares.Clase>
+        <dia>2019-09-15 22:00:00.0 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase de programación</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2019-09-22 22:00:00.0 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Repaso de funciones</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2019-09-29 22:00:00.0 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Colegio</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2019-10-08 22:00:00.0 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Programacion de vistas</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2019-10-13 22:00:00.0 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Diseño de vistas</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2019-10-23 22:00:00.0 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Conitnuacion de la practica del colegio</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2019-10-31 21:35:21.360 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase Colegio</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2019-11-04 20:06:54.280 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Continuacion Colegio</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2019-11-10 23:00:00.0 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase Manolo</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2019-11-18 20:03:30.921 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase Colegio</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2019-11-25 19:53:42.505 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase C++</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2019-12-09 20:03:33.54 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase colegio</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2019-12-16 17:11:17.679 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase final Colegio V</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-02-03 20:27:51.348 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase vuelta</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-02-10 19:35:04.889 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Fin del colegio</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-02-17 20:03:41.1 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>App Parking</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-02-24 19:32:35.828 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase Parking</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-03-04 20:06:56.950 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Instalación MySQL Workbench + Xampp</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-03-09 14:29:56.676 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase MYSQL</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-03-09 22:04:09.75 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase nocturna Java</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-03-16 15:33:21.717 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase Java</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-03-17 17:18:48.447 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase Java</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-03-25 19:34:21.833 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Solucion de dudas</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-03-26 18:01:37.24 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>BASES DE DATOS JAVA</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-03-30 14:14:15.130 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Prolog</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-04-01 22:00:00.0 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Prolog clase</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-04-06 14:04:29.686 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Repaso Prolog</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-04-09 14:14:17.307 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Solucion prolog</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-04-11 15:34:58.279 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clases prolog</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-04-13 18:35:35.641 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Fin prolog</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-04-30 16:28:01.779 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase Java</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-05-07 16:42:20.988 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Driver</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-05-14 15:34:35.223 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Correccion Java</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-05-21 15:55:53.959 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Ejercicio ventas</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-05-31 17:01:52.713 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase Java</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-06-05 16:08:55.939 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Resolucion ventanas</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-06-30 13:48:22.938 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Final de clases jornada</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-09-14 11:41:51.23 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Iniciacion HTML</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-09-07 11:42:08.821 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Toma de contacto</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-09-21 20:16:29.831 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>HTML</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-10-01 22:00:00.0 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Introduccion a Excel</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-10-05 18:55:27.504 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Repaso edificio</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-10-12 17:59:56.976 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Soluciones Java</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-10-19 22:00:00.0 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>C++</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-10-25 23:00:00.0 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Arreglo XAMPP</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-11-02 20:39:27.307 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>HTML</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-11-09 20:00:05.165 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Comprobacion de codigo Java</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-11-17 20:01:26.789 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Resolucion de codigo java</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-11-22 23:56:09.846 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase HTML</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-11-29 23:56:21.977 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Avance clase</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2021-02-16 09:06:15.18 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Repaso</concepto>
+        <pagada>false</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2021-02-22 23:00:00.0 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase de repaso C++</concepto>
+        <pagada>false</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2021-03-02 20:29:13.833 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>c++</concepto>
+        <pagada>false</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2021-03-09 21:22:29.111 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>C++</concepto>
+        <pagada>false</pagada>
+      </clasesparticulares.Clase>
+    </clases>
+  </clasesparticulares.Alumno>
+  <clasesparticulares.Alumno>
+    <nombre>CE</nombre>
+    <apellidos>Mestalla</apellidos>
+    <asignatura>Soporte Tecnico</asignatura>
+    <email>admin@centrodeestudiosmestalla.com</email>
+    <precio>10.0</precio>
+    <clases>
+      <clasesparticulares.Clase>
+        <dia>2020-09-14 11:43:52.765 UTC</dia>
+        <horas>2.0</horas>
+        <concepto>Instalación Whatsapp + Web</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-09-20 22:00:00.0 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Sustitución</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-09-24 15:29:24.5 UTC</dia>
+        <horas>1.5</horas>
+        <concepto>WiFi + Web + Actualizacion PHP</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-10-23 14:14:46.743 UTC</dia>
+        <horas>2.5</horas>
+        <concepto>Limpieza + Copiado de datos web</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+    </clases>
+  </clasesparticulares.Alumno>
+  <clasesparticulares.Alumno>
+    <nombre>Raquel</nombre>
+    <apellidos>Academia</apellidos>
+    <asignatura>Introduccion a la informatica + Solucion de dudas</asignatura>
+    <email>raquelacademia@nohaycorreo.es</email>
+    <precio>10.0</precio>
+    <clases>
+      <clasesparticulares.Clase>
+        <dia>2020-09-21 08:22:47.762 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Repaso internet + eBook</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-09-24 15:29:10.801 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Extensiones</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-09-28 14:56:16.158 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Solucion eBook + libro Dummies</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-10-01 08:22:08.124 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Limpiador + Movil</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-10-21 08:46:59.63 UTC</dia>
+        <horas>1.5</horas>
+        <concepto>Clase Torrent</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-10-28 12:36:30.725 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Android</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-11-04 09:09:50.517 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Clase Google Keep</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-11-11 19:59:18.68 UTC</dia>
+        <horas>0.5</horas>
+        <concepto>Clase rapida de Raquel</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-11-16 20:00:40.21 UTC</dia>
+        <horas>1.5</horas>
+        <concepto>Calendar</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+    </clases>
+  </clasesparticulares.Alumno>
+  <clasesparticulares.Alumno>
+    <nombre>Anton</nombre>
+    <apellidos>Esmoris</apellidos>
+    <asignatura>Electrónica Digital</asignatura>
+    <email>sin email</email>
+    <precio>15.0</precio>
+    <clases>
+      <clasesparticulares.Clase>
+        <dia>2020-09-28 14:56:00.103 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Introduccion a la electronica digital</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+    </clases>
+  </clasesparticulares.Alumno>
+  <clasesparticulares.Alumno>
+    <nombre>Mingxuan</nombre>
+    <apellidos>Ni</apellidos>
+    <asignatura>Informatica</asignatura>
+    <email>mingxuan1229@gmail.com</email>
+    <precio>10.0</precio>
+    <clases>
+      <clasesparticulares.Clase>
+        <dia>2020-10-16 14:35:06.567 UTC</dia>
+        <horas>1.5</horas>
+        <concepto>Excel</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-10-23 14:14:26.573 UTC</dia>
+        <horas>1.5</horas>
+        <concepto>Examen + Ejercicio Excel</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-10-30 10:44:14.203 UTC</dia>
+        <horas>1.5</horas>
+        <concepto>clase</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-10-30 10:44:29.130 UTC</dia>
+        <horas>1.5</horas>
+        <concepto>clase</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+    </clases>
+  </clasesparticulares.Alumno>
+  <clasesparticulares.Alumno>
+    <nombre>Adrian</nombre>
+    <apellidos>Academia</apellidos>
+    <asignatura>Programacion</asignatura>
+    <email>n@n.es</email>
+    <precio>10.0</precio>
+    <clases>
+      <clasesparticulares.Clase>
+        <dia>2020-10-27 12:37:12.914 UTC</dia>
+        <horas>1.5</horas>
+        <concepto>Java + BDD</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-11-04 10:50:38.942 UTC</dia>
+        <horas>1.5</horas>
+        <concepto>Problema XML Java</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-11-11 19:59:03.21 UTC</dia>
+        <horas>1.5</horas>
+        <concepto>Java</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+    </clases>
+  </clasesparticulares.Alumno>
+  <clasesparticulares.Alumno>
+    <nombre>Pablo</nombre>
+    <apellidos>Conca</apellidos>
+    <asignatura>Mecanografía</asignatura>
+    <email>n@n.es</email>
+    <precio>10.0</precio>
+    <clases>
+      <clasesparticulares.Clase>
+        <dia>2020-10-28 12:38:07.478 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Mecanografia</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-11-11 19:54:55.591 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Mecanografia</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+      <clasesparticulares.Clase>
+        <dia>2020-11-13 19:59:33.869 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Mecanografia</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+    </clases>
+  </clasesparticulares.Alumno>
+  <clasesparticulares.Alumno>
+    <nombre>Mayte</nombre>
+    <apellidos>Academia</apellidos>
+    <asignatura>Ayuda con Internet</asignatura>
+    <email>sincorreo</email>
+    <precio>10.0</precio>
+    <clases>
+      <clasesparticulares.Clase>
+        <dia>2020-11-16 20:01:10.341 UTC</dia>
+        <horas>1.0</horas>
+        <concepto>Iniciacion</concepto>
+        <pagada>true</pagada>
+      </clasesparticulares.Clase>
+    </clases>
+  </clasesparticulares.Alumno>
+</list>
